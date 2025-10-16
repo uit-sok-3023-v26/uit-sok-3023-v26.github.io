@@ -27,7 +27,7 @@ I forbindelse med spørsmål til faget, eksamen og prosjektet skal spørsmål he
 For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>. Der får du hjelp av Handelshøgskolens administrasjon.
 
 ## Pensum
-I SOK-3023 *Maskinlæring for økonomer* har vi ingen bok, men vi har følgende pensum:
+I SOK-3023 *Maskinlæring for økonomer* har vi følgende pensum:
 * Kompendium designet for dette kurset.
 * Google Colab filer, de finner dere [her](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/tree/main/notebooks).
 * Fagstoff som er gjennomgått på fysiske forelesningene.
