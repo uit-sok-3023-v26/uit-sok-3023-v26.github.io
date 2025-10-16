@@ -1,0 +1,108 @@
+{% include navbar.html %}{% include top-box.html %}
+# Prosjekt
+I dette kurset skal vi ha et maskinlæringsprosjekt, hvor dere vil bli utfordret på å lage egne maskinlæringsmodeller. Dere skal gjennomføre arbeidet **enten** alene, eller i gruppe på to.
+
+## Oppgave 🎯📊
+Dere skal utforske og sammenligne maskinlæringsmodeller på et selvvalgt eller anbefalt datasett. Målet er å analysere hvordan ulike teknikker presterer på problemstillingen dere velger.  
+
+### 🔍 Maskinlæringsteknikker  
+Dere skal bruke minst én **dyplæringsteknikk** som:  
+- Nevrale nettverk  
+- CNN (Convolutional Neural Networks)  
+- LSTM (Long Short-Term Memory)  
+- Whisper-modellen 
+  
+Alle teknikkene over, går under feltet *dyplæring*. Dyplæring **skal** inkluderes i prosjektet. 
+
+I tillegg, kan dere sammenligne dyplæring med mindre komplekse modeller som:  
+- Lineær regresjon  
+- Logistisk regresjon  
+- Beslutningstrær (Decision Trees, Random Forests, Boosting)
+- Dere har lov til å introdusere andre maskinlæringsteknikker dere finner på egen hånd, **om dere vil**.
+
+**Husk:** Mer komplekse modeller er ikke alltid best! Dere skal evaluere modellene basert på deres ytelse og relevans for problemstillingen.  
+
+### 📂 Krav til prosjektet
+Jeg har funnet frem en del eksempel-datasett dere *kan* (les kan, **ikke må**) bruke. De finner dere lenke til nederst på siden her.
+
+Dere står fritt til å velge datasett selv, som dere finner på Internett. Det kan f.eks. være fra Yahoo finance, Kaggle, SSB eller andre sider som har data. Uansett hvilke data dere bruker, så **må** dere oppgi dets kilde!
+
+Det er ganske åpne rammer for oppgaven, men oppgaven har følgende krav:
+
+1. **Datasett og problemstilling**
+   - Velg et datasett (selv eller fra gitte eksempel-datasett).
+   - Beskriv datasettet, dets kilde og hva dere ønsker å analysere.
+    
+2. **Dataforståelse og preprosessering**  
+   - Utforsk datasettet (statistikk, visualiseringer, etc.).  
+   - Gjør nødvendige transformasjoner (håndtere manglende verdier, normalisering, etc.).  
+
+3. **Implementasjon av modeller**  
+   - Bruk minst én dyplæringsteknikk og sammenlign gjerne med andre modeller (som nevnt over).
+       * Det er bare positivt om dere gjør egne valg, og gjør en grundig analyse.  
+   - Koden skal være godt kommentert og forklart!!!  
+
+4. **Evaluering av modellene**  
+   - Bruk relevante evalueringsmetrikker som MSE, RMSE, Accuracy, F1-score, etc.
+       * Her er lista lang, og opp til dere hvilke metrikk som gir mest mening å benytte seg av.  
+   - Sammenlign modellene basert på ytelse og generaliseringsevne.  
+
+5. **Matematisk beskrivelse av modellene**  
+   - Bruk LaTeX i Markdown for å forklare de matematiske konseptene.  
+   - For eksempel kan input-lag til første skjulte lag i et nevralt nettverk beskrives noe som dette:  
+     $\mathbf{a^{(1)}} = \sigma(\mathbf{W} \mathbf{a^{(0)}} + \mathbf{b})$
+
+6. **Konklusjon og refleksjon**  
+   - Hvilken modell presterte best? Hvorfor?  
+   - Hvordan kan modellen forbedres?  
+   - Hva kan resultatene brukes til i praksis?
+   - Også videre, også videre. 
+
+7. **Format og innlevering**  
+   - Prosjektet **skal** leveres som en **Jupyter Notebook (`.ipynb`)**.  
+   - Det skal kunne kjøres i **Google Colab** uten eksterne avhengigheter.
+   - Legg ved datasettet!
+   - Husk å oppgi en **kildeliste** for datasett og litteratur, bruk APA 7 referansestil.
+
+### 🎙️ Presentasjon av prosjektbeskrivelse
+Dere skal presentere prosjektet før det starter ordentlig. Dette er for å demonstrere hva dere har tenkt til å gjennomføre, fremdriftsplan og hvilke data dere velger å se på. Dette skjer fredag 28. februar 2025, mellom 08.15-14.00 (Skulle noen ønske *tidligere*, så ta det opp med fagansvarlig i forelesning/mail).
+
+- Presentasjonen skal være i 5-10 minutter, etterfulgt av 5 minutter med spørsmål/diskusjon.
+- Dere skal vise frem valgte data, problemstilling og initielle tanker for prosjektet. Dette kan presenteres ved hjelp av Notebooks, PowerPoint eller en kombinasjon av PowerPoint/Notebooks.
+- Målet med presentasjonen er at dere har satt dere et passende mål, problemstilling, datasett og eventuelle spørsmål.
+- Vurderes som Godkjent/Ikke-godkjent.
+
+#### Tidspunkt for presentasjoner
+Her finner dere tidspunkt for presentasjonene:
+
+| Dato   | Tidspunkt   | Hvem       | Hvor  |
+|-------------|--------------|-----------------|-----------------|
+| 28. feb | 08.15-08.40 | Gjennomført (anonymisert)            | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDQxOTgwYWQtNDQ2ZS00NWNmLWEyZWEtMTYzYTJiNDE2ZWIw%40thread.v2/0?context=%7b%22Tid%22%3a%224e7f212d-74db-4563-a57b-8ae44ed05526%22%2c%22Oid%22%3a%223bc84fca-f258-43d8-abc9-a2db6ea0ad08%22%7d) |
+| 28. feb | 08.40-09.05 | Gjennomført (anonymisert)            | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDQxOTgwYWQtNDQ2ZS00NWNmLWEyZWEtMTYzYTJiNDE2ZWIw%40thread.v2/0?context=%7b%22Tid%22%3a%224e7f212d-74db-4563-a57b-8ae44ed05526%22%2c%22Oid%22%3a%223bc84fca-f258-43d8-abc9-a2db6ea0ad08%22%7d) |
+| 28. feb | 09.05-09.30 | Gjennomført (anonymisert)             | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDQxOTgwYWQtNDQ2ZS00NWNmLWEyZWEtMTYzYTJiNDE2ZWIw%40thread.v2/0?context=%7b%22Tid%22%3a%224e7f212d-74db-4563-a57b-8ae44ed05526%22%2c%22Oid%22%3a%223bc84fca-f258-43d8-abc9-a2db6ea0ad08%22%7d) |
+| 28. feb | 09.30-09.55 | Gjennomført (anonymisert)                          | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDQxOTgwYWQtNDQ2ZS00NWNmLWEyZWEtMTYzYTJiNDE2ZWIw%40thread.v2/0?context=%7b%22Tid%22%3a%224e7f212d-74db-4563-a57b-8ae44ed05526%22%2c%22Oid%22%3a%223bc84fca-f258-43d8-abc9-a2db6ea0ad08%22%7d) |
+| 28. feb | 09.55-10.20 | Gjennomført (anonymisert)                | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDQxOTgwYWQtNDQ2ZS00NWNmLWEyZWEtMTYzYTJiNDE2ZWIw%40thread.v2/0?context=%7b%22Tid%22%3a%224e7f212d-74db-4563-a57b-8ae44ed05526%22%2c%22Oid%22%3a%223bc84fca-f258-43d8-abc9-a2db6ea0ad08%22%7d) |
+| 28. feb | 10.20-10.45 | Gjennomført (anonymisert)        | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDQxOTgwYWQtNDQ2ZS00NWNmLWEyZWEtMTYzYTJiNDE2ZWIw%40thread.v2/0?context=%7b%22Tid%22%3a%224e7f212d-74db-4563-a57b-8ae44ed05526%22%2c%22Oid%22%3a%223bc84fca-f258-43d8-abc9-a2db6ea0ad08%22%7d) |
+| 28. feb | 10.45-11.10 | Gjennomført (anonymisert)                              | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDQxOTgwYWQtNDQ2ZS00NWNmLWEyZWEtMTYzYTJiNDE2ZWIw%40thread.v2/0?context=%7b%22Tid%22%3a%224e7f212d-74db-4563-a57b-8ae44ed05526%22%2c%22Oid%22%3a%223bc84fca-f258-43d8-abc9-a2db6ea0ad08%22%7d) |
+| 28. feb | 11.10-11.35 | Gjennomført (anonymisert)             | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDQxOTgwYWQtNDQ2ZS00NWNmLWEyZWEtMTYzYTJiNDE2ZWIw%40thread.v2/0?context=%7b%22Tid%22%3a%224e7f212d-74db-4563-a57b-8ae44ed05526%22%2c%22Oid%22%3a%223bc84fca-f258-43d8-abc9-a2db6ea0ad08%22%7d) |
+
+
+
+Legg merke til at disse er **digitale**, trykk på lenken for å *gå inn* i Teams-rommet. Ønsker dere fysisk, ta kontakt så kan vi ta det på 24., 25. eller 26. februar!
+
+### 📚 Vurdering av oppgaven
+Denne semesteroppgaven teller 50% av karakteren. Dere vil få karakter A-F, og det vurderes ut i fra følgende:
+
+* Forståelse av maskinlæring, teknikkene dere bruker, hva dere har gjort og hvordan dette **formidles** i oppgaven.
+* Hvordan problemstillingen er besvart.
+* Struktur og tydelig kommunikasjon
+* Å vise breddeforståelse for fagfeltet maskinlæring, som gjerne trekker inn samfunnsøkonomi, teller positivt.
+* Det er lov å bruke AI som et hjelpemiddel, for å få hjelp med koding, forståelse etc. - men ting **skal** være formidlet med egne ord. For det første er det juks, og for det andre, hvis man blir tatt, kan det føre til utestengelse.
+* Dere har god tid på prosjektet, og skal leveres 7. mai kl. 14:00 på [Wiseflow](https://europe.wiseflow.net/participant/). Her kan dere laste opp totalt **5 filer**, hvor dere **skal** laste opp en `.ipynb` fil og datasettet dere bruker (f.eks. `.xlsx` eller `.csv` fil). I tillegg, *kan* dere laste opp oppgaven som pdf, legge ved eventuelle vedlegg, og/eller andre relevante filer.
+
+**Husk:** Det er ikke om accuracy til modellen er 100% eller ikke, som bestemmer om dere har levert en god oppgave. Det er ikke alltid mulig å få det til på test data, da vi ikke alltid har perfekt data. En god oppgave tar hensyr til kravene, viser forståelse, refleksjon og at dere tar i bruk maskinlæring på en fornuftig måte.
+
+Lykke til! 🚀
+
+### Datasett
+Vi har en rekke datasett som er lastet opp eller linket til på GitHub, det finner dere [her](https://github.com/uit-sok-3023-v25/uit-sok-3023-v25.github.io/blob/main/data/README.md).
