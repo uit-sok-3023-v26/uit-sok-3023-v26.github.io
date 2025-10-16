@@ -19,11 +19,11 @@ Kommentar: Her kan (og mest sannsynligvis vil) det skje endringer.
 |29.01.2025  12:15-14:00|[Introduksjon til ML #3 - del 2](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning3_ML_For_Economics.ipynb)|| | |
 |xx.xx.2026 10:15-12:00 |Intro til ML, oppgaver | Seminar | | [Oppgaver](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/oppgaver/Oppgaver%233.pdf)|
 |29.01.2025  12:15-14:00|[Whisper-modellen](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning4_ML_For_Economics.ipynb)|Forelesning| | [Presentasjon](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning4_del1.pdf)|
-|03.02.2025  10:15-12:00|Bildeklassifisering, CNN's - del 1|Forelesning| | |
-|04.02.2025  12:15-14:00|Whisper/CNN's/prosjekt|Seminar| | |
-|05.02.2025  10:15-12:00|Bildeklassifisering, CNN's - del 2|Forelesning| | |
-|10.02.2025  12:15-14:00|Long Short Term Memory modeller|Forelesning| | |
-|12.02.2025  10:15-12:00|Long Short Term Memory modeller|Forelesning| | |
+|03.02.2025  10:15-12:00|[Bildeklassifisering, CNN's - del 1](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning5_del1.pdf)|Forelesning| | |
+|04.02.2025  12:15-14:00|Whisper/CNN's/prosjekt|Seminar| |[Oppgaver](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/oppgaver/Seminar_muntlig.pdf) |
+|05.02.2025  10:15-12:00|[Bildeklassifisering, CNN's - del 2](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning5_ML_For_Economics.ipynb)|Forelesning| | |
+|10.02.2025  12:15-14:00|[Long Short Term Memory modeller](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning6_del1.pdf)|Forelesning| | |
+|12.02.2025  10:15-12:00|[Long Short Term Memory modeller](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning6_ML_For_Economics.ipynb)|Forelesning| | |
 |17.02.2025  12:15-16:00|Spørsmål, repetisjon, prosjekt, muntlig|Forelesning| | |
 |20.02.2025  08:15-10:00|Spørsmål, oppgaver, prosjektforberedelser|Seminar| | |
 |28.02.2025  08:15-14:00|Presentasjon av prosjektforberedelser|-----| | |
