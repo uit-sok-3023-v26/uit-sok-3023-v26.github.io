@@ -29,8 +29,13 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 ## Pensum
 I SOK-3023 *Maskinlæring for økonomer* har vi ingen bok, men vi har følgende pensum:
 * Kompendium designet for dette kurset.
-* Google Colab filer, de finner dere [her](https://github.com/uit-sok-3023-v25/uit-sok-3023-v25.github.io/tree/main/notebooks).
+* Google Colab filer, de finner dere [her](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/tree/main/notebooks).
 * Fagstoff som er gjennomgått på fysiske forelesningene.
+
+Vi kommer også til å bruke følgende bøker, som ligger gratis tilgjengelig på nett:
+* [An Introduction to Statistical Learning: with Applications in Python](https://www.statlearning.com/)
+
+Hvilke kapitler/sider som er pensum, står listet i forelesningsplanen.
 
 ### Om kompendiet
 Kompendiet er litteratur studentene kan støtte seg på til forelesningene og prosjektet. Alt i kompendiet er pensum, og i dette kurset forventes det en del egenstudium.
