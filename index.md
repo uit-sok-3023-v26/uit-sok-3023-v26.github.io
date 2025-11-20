@@ -34,7 +34,7 @@ I SOK-3023 *Maskinlæring for økonomer* har vi følgende pensum:
 
 Vi kommer også til å bruke følgende bøker, som ligger gratis tilgjengelig på nett:
 * [An Introduction to Statistical Learning: with Applications in Python](https://www.statlearning.com/)
-
+  Denne boken gir en god introduksjon til noen av temaene.
 Hvilke kapitler/sider som er pensum, står listet i forelesningsplanen.
 
 ### Om kompendiet
