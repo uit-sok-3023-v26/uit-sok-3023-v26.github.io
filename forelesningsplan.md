@@ -10,21 +10,21 @@ Kommentar: Her kan (og mest sannsynligvis vil) det skje endringer.
 | Tid | Tema | Type | Pensum | Undervisningsmateriale | 
 |-----|------|------|---------|------------------------|
 |10.01.2025  10:15-12:00|[Introduksjon til ML #1 - del 1](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning1_del1.pdf)|Forelesning|Statistical Learning bok kapittel 2 | [Notater](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning1-Notater-SOK3023-V25.pdf)|
-|14.01.2025  12:15-14:00|[Introduksjon til ML #1 - del 2](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning1_Kode_ML_Economics.ipynb)|Forelesning| | |
+|14.01.2025  12:15-14:00|[Introduksjon til ML #1 - del 2](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning1_Kode_ML_Economics.ipynb)|Forelesning|Kompendium kapittel 1 og 2 | |
 |15.01.2025  12:15-14:00|Intro til ML, spørsmål |Seminar|Statistical Learning bok kapittel 8 |[Oppgaver](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/oppgaver/Oppgaver%231.pdf) |
 |16.01.2025  10:15-12:00|[Introduksjon til ML #2 - del 1](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning2_del1.pdf)|Forelesning|Statistical Learning bok kapittel 10 (god for intuisjon). Boken bruker **torch**, vi bruker **tensorflow**. |[Notater](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning2-Notater-SOK3023-V25.pdf)|
-|20.01.2025  12:15-14:00|[Introduksjon til ML #2 - del 2](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning2_Kode_ML_Economics.ipynb)|Forelesning| | |
+|20.01.2025  12:15-14:00|[Introduksjon til ML #2 - del 2](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning2_Kode_ML_Economics.ipynb)|Forelesning|Kompendium kapittel 3 og 4 | |
 |22.01.2025  12:15-14:00|Intro til ML, spørsmål, oppgaver|Seminar| |[Oppgaver](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/oppgaver/Oppgaver%232.pdf) |
 |27.01.2025  09:15-12:00|[Introduksjon til ML #3 - del 1](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning3_del1.pdf)|Forelesning| |[Notater](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning3-Notater-SOK3023-V25.pdf) |
-|29.01.2025  12:15-14:00|[Introduksjon til ML #3 - del 2](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning3_ML_For_Economics.ipynb)|| | |
+|29.01.2025  12:15-14:00|[Introduksjon til ML #3 - del 2](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning3_ML_For_Economics.ipynb)||Kapittel 5.1 og 5.2 | |
 |xx.xx.2026 10:15-12:00 |Intro til ML, oppgaver | Seminar | | [Oppgaver](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/oppgaver/Oppgaver%233.pdf)|
-|29.01.2025  12:15-14:00|[Whisper-modellen](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning4_ML_For_Economics.ipynb)|Forelesning| | [Presentasjon](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning4_del1.pdf)|
-|03.02.2025  10:15-12:00|[Bildeklassifisering, CNN's - del 1](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning5_del1.pdf)|Forelesning| | |
+|29.01.2025  12:15-14:00|[Whisper-modellen](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning4_ML_For_Economics.ipynb)|Forelesning|Kapittel 5.3 | [Presentasjon](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning4_del1.pdf)|
+|03.02.2025  10:15-12:00|[Bildeklassifisering, CNN's - del 1](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning5_del1.pdf)|Forelesning|Kapittel 5.4 | |
 |04.02.2025  12:15-14:00|Whisper/CNN's/prosjekt|Seminar| |[Oppgaver](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/oppgaver/Seminar_muntlig.pdf) |
 |05.02.2025  10:15-12:00|[Bildeklassifisering, CNN's - del 2](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning5_ML_For_Economics.ipynb)|Forelesning| | |
-|10.02.2025  12:15-14:00|[Long Short Term Memory modeller](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning6_del1.pdf)|Forelesning| | |
+|10.02.2025  12:15-14:00|[Long Short Term Memory modeller](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning6_del1.pdf)|Forelesning|Kapittel 5.5 | |
 |12.02.2025  10:15-12:00|[Long Short Term Memory modeller](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning6_ML_For_Economics.ipynb)|Forelesning| | |
-|17.02.2025  12:15-16:00|Spørsmål, repetisjon, prosjekt, muntlig|Forelesning| | |
+|17.02.2025  12:15-16:00|Spørsmål, repetisjon, prosjekt, muntlig|Forelesning|Hele kompendium | |
 |20.02.2025  08:15-10:00|Spørsmål, oppgaver, prosjektforberedelser|Seminar| | |
 |28.02.2025  08:15-14:00|Presentasjon av prosjektforberedelser|-----| | |
 |11.03.2025  12:15-14:00|Spørsmål med prosjekt|Seminar| | |
