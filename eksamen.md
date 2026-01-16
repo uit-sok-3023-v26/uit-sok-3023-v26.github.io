@@ -26,7 +26,9 @@ Prosjekt kan gjøres i alene eller grupper på to. Muntlig eksamen er individuel
 Under er det listet opp **når** dere skal ha deres muntlige eksamen. Det er fordelt ut over dagen xx. og xx. mai 2026, og vil foregå på rom XXX.
 
 Informasjon om hvordan muntlig eksamen vil foregå finner dere [her](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/Muntlig_eksamen_SOK_3023.pdf).
+
 Under muntlig eksamen vil dere få noe spørsmål om prosjektarbeidet, noe fra en forhåndsdefinert liste med spørsmål og noen andre spørsmål fra pensum. Muntlig eksamen er ment som en faglig diskusjon mellom student og sensor.
+
 Den forhåndsdefinerte lista med spørsmål finner dere [her](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/Eksamen_SOK3023_V26.pdf).
 
 **Obs**: Husk å ta med gyldig legitimasjon! Møt opp i god tid før din eksaminasjon, minst 10 minutter før.
