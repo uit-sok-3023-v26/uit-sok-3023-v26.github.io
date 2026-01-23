@@ -24,7 +24,7 @@ Kommentar: Her kan (og mest sannsynligvis vil) det skje endringer.
 |18.02.2026  14:15-16:00|Whisper/CNN's/prosjekt|Seminar| |[Oppgaver](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/oppgaver/Seminar_muntlig.pdf) |
 |19.02.2026  08:15-12:00|[Bildeklassifisering, CNN's - del 2](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning5_ML_For_Economics.ipynb)|Forelesning| | |
 |23.02.2026  12:15-14:00|[Long Short Term Memory modeller](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning6_del1.pdf)/[Kode](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning6_ML_For_Economics.ipynb)|Forelesning|Kapittel 5.5 | |
-|26.02.2026  08:15-14:00|Presentasjon|Prosjektbeskrivelse| | |
+|26.02.2026  08:15-14:00|Presentasjon/Arbeidskrav|Prosjektbeskrivelse| | |
 |09.03.2026  10:15-12:00|Spørsmål, repetisjon, prosjekt, muntlig|Forelesning|Hele kompendium | |
 |11.03.2026  08:15-10:00|Spørsmål, oppgaver, prosjektforberedelser|Seminar| | |
 |28.02.2026  08:15-14:00|Presentasjon av prosjektforberedelser|-----| | |
