@@ -13,8 +13,7 @@ Vi vil også legge ut noen datasett dere kan bruke i oppgaven deres.
 * *Bildeklassifisering*, et datasett om grønnsaker. Klassifiseringsoppgave med flere klasser. Lenke til datasettet finnes [her](https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset).
 * *Bildeklassifisering*, et datasett som inneholder eksempler på **ekte** bilder av ansikt, og **falsk** genererte bilder. Lenke til datasettet finnes [her](https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces).
 * *Helsedata*, et datasett som handler om helseforsikring, og personlige attributter og pris av forsikring. Lenke til datasettet [her](https://www.kaggle.com/datasets/willianoliveiragibin/healthcare-insurance).
-* **Spennende bildeklassifisering**, et datasett som inneholder amerikansk tegnspråk. Her kan man f.eks. lage en modell som predikerer hva et bilde av en hånd betyr på tegnspråk. Lenke til datasettet [her](https://www.kaggle.com/datasets/esfiam/american-sign-language-dataset).
-
+  
 ## Kaggle
 Mange av datasettene over bruker *Kaggle.com* - alt dere trenger å gjøre er å lage en bruker der (f.eks. med Gmail) for å laste ned datasett.
 
