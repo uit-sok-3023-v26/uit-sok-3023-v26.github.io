@@ -7,10 +7,10 @@ Dere skal utforske og sammenligne maskinlæringsmodeller på et selvvalgt eller 
 
 ### 🔍 Maskinlæringsteknikker  
 Dere skal bruke minst én **dyplæringsteknikk** som:  
-- Nevrale nettverk  
+- Nevrale nettverk
+- Multi-Layer Perceptrions (MLP)
 - CNN (Convolutional Neural Networks)  
 - LSTM (Long Short-Term Memory)  
-- Whisper-modellen 
   
 Alle teknikkene over, går under feltet *dyplæring*. Dyplæring **skal** inkluderes i prosjektet. 
 
