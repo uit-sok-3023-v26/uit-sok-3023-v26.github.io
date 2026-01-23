@@ -31,6 +31,38 @@ Det viktigste med dataene dere velger å bruke til semesteroppgaven er at det er
 |World Bank - Andre type data|Statistikk innen utdannelse, kjønn, helse, populasjon|[World Bank](https://databank.worldbank.org/)|
 |ML Repo|Massevis av ulike ML datasett|[UC Irvine Machine Learning Repository](https://archive.ics.uci.edu)|
 
+## Boka *Introduction to Statistical Learning* har en rekke datasett dere kan bruke
+| Datasett | Beskrivelse |
+| :--- | :--- |
+| `Auto` | Drivstofforbruk, hestekrefter og annen informasjon om biler. |
+| `Bikeshare` | Timebasert bruk av et sykkeldelingsprogram i Washington, DC. |
+| `Boston` | Boligverdier og annen informasjon om bydeler (census tracts) i Boston. |
+| `BrainCancer` | Overlevelsestid for pasienter diagnostisert med hjernekreft. |
+| `Caravan` | Informasjon om individer som er tilbudt forsikring for campingvogn. |
+| `Carseats` | Informasjon om salg av barneseter i 400 butikker. |
+| `College` | Demografiske data, skolepenger og mer for amerikanske høyskoler (Colleges). |
+| `Credit` | Informasjon om kredittkortgjeld for 400 kunder. |
+| `Default` | Data om kunder som misligholder kredittkortgjeld (Default). |
+| `Fund` | Avkastning for 2 000 hedgefond-forvaltere over 50 måneder. |
+| `Hitters` | Statistikk og lønningsdata for baseballspillere. |
+| `Khan` | Målinger av genuttrykk for fire krefttyper. |
+| `NCI60` | Målinger av genuttrykk for 64 kreftcelle-linjer. |
+| `NYSE` | Avkastning, volatilitet og volum for New York Stock Exchange. |
+| `OJ` | Salgsinformasjon for appelsinjuicene Citrus Hill og Minute Maid. |
+| `Portfolio` | Historiske verdier av finansielle eiendeler (brukes til porteføljeallokering). |
+| `Publication` | Tid til publisering for 244 kliniske studier. |
+| `Smarket` | Daglige prosentvise avkastninger for S&P 500 over en 5-års periode. |
+| `USArrests` | Kriminalitetsstatistikk per 100 000 innbyggere i 50 amerikanske stater. |
+| `Wage` | Inntektsdata for menn i den sentral-atlantiske regionen i USA. |
+| `Weekly` | 1 089 ukentlige aksjemarkedsavkastninger over en periode på 21 år. |
 
+Dere henter dataen på følgende vis:
+```python
+!pip install ISLP
 
+from ISLP import load_data
+# Eksempel
+wage = load_data('Wage')
+wage
+```
 
