@@ -20,16 +20,14 @@ Kommentar: Her kan (og mest sannsynligvis vil) det skje endringer.
 |29.01.2026   10:15-12:00|Beslutningstrær og random forests|[Video-forelesning](https://youtu.be/n8nZKvsPlgE)|[Notater fra video](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/RF_Notes.pdf) |[Random Forest kode](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/RF.ipynb) |
 |02.02.2026  10:15-12:00|[Whisper-modellen](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning4-%20MLV26.ipynb)||Kapittel 5.1, 5.2 og 5.3 |[Presentasjon](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning4_del1.pdf) |
 |04.02.2026 14:15-16:00 |Intro til ML, oppgaver | Seminar | | [Oppgaver](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/oppgaver/Oppgaver%233.pdf)/[Walkthrough - Lage eget nevralt nettverk](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/oppgaver/Kode_Seminar.pdf)|
-|09.02.2026  10:15-12:00|[Whisper-modellen](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning4-%20MLV26.ipynb)|Forelesning|Kapittel 5.3 | [Presentasjon](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning4_del1.pdf)|
-|11.02.2026  12:15-14:00|[Bildeklassifisering, CNN's - del 1](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning5_del1.pdf)|Forelesning|Kapittel 5.4 | |
+|09.02.2026  10:15-12:00|[Bildeklassifisering, CNN's - del 1](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning5_del1.pdf)|Forelesning|Kapittel 5.4 | |
+|11.02.2026  12:15-14:00|[Bildeklassifisering, CNN's - del 2](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning5_ML_For_Economics.ipynb)|Forelesning| | |
 |18.02.2026  14:15-16:00|Whisper/CNN's/prosjekt|Seminar| |[Oppgaver](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/oppgaver/Seminar_muntlig.pdf) |
-|19.02.2026  08:15-12:00|[Bildeklassifisering, CNN's - del 2](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning5_ML_For_Economics.ipynb)|Forelesning| | |
-|23.02.2026  12:15-14:00|[Long Short Term Memory modeller](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning6_del1.pdf)/[Kode](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning6_ML_For_Economics.ipynb)|Forelesning|Kapittel 5.5 | |
+|19.02.2026  08:15-12:00|[Long Short Term Memory modeller](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning6_del1.pdf)/[Kode](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning6_ML_For_Economics.ipynb)|Forelesning|Kapittel 5.5 | |
+|23.02.2026  12:15-14:00|Repetisjon|Forelesning|Hele kompendium | |
 |26.02.2026  08:15-14:00|Presentasjon/Arbeidskrav|Prosjektbeskrivelse| | |
 |09.03.2026  10:15-12:00|Spørsmål, repetisjon, prosjekt, muntlig|Forelesning|Hele kompendium | |
-|11.03.2026  08:15-10:00|Spørsmål, oppgaver, prosjektforberedelser|Seminar| | |
-|28.02.2026  08:15-14:00|Presentasjon av prosjektforberedelser|-----| | |
-|11.03.2026  12:15-14:00|Spørsmål med prosjekt|Seminar| | |
+|11.03.2026  12:15-14:00|Spørsmål til prosjekt|Seminar| | |
 |PROSJEKTARBEID|EGENSTUDIUM|EGENSTUDIUM| | |
 |PROSJEKTARBEID|EGENSTUDIUM|EGENSTUDIUM| | |
 |PROSJEKTARBEID|EGENSTUDIUM|EGENSTUDIUM| | |
