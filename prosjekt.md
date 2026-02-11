@@ -106,3 +106,9 @@ Lykke til! 🚀
 
 ### Datasett
 Vi har en rekke datasett som er lastet opp eller linket til på GitHub, det finner dere [her](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/data/README.md).
+
+### Eksempel på prosjektoppgave
+Fjorårets studenter gjorde en rekke ulike prosjekter, noen brukte Random Forests og MLP, andre brukte CNN og noen fokuserte på LSTM.
+En del av prosjektet er at dere skal velge noe som interesserer dere, og følger **krav til prosjektet** (som er listet over).
+
+Ett eksempel på et prosjekt finner dere [her](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/oppgaver/eksempel-oppgave.ipynb).
