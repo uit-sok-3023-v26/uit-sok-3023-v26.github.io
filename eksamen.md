@@ -16,7 +16,7 @@
 
 | Type oppgave   | Innleveringsfrist | Hvordan |Vurdering |
 |------------------------------------|-------------------|-----------|-----------|
-|Presentasjon av prosjektbeskrivelse  |  28.02  | Presentasjon   |Godkjent/Ikke-godkjent|
+|Presentasjon av prosjektbeskrivelse  |  26.02  | Presentasjon   |Godkjent/Ikke-godkjent|
 |Innlevering av prosjekt| 07.05 kl. 14.00    | [Wiseflow](https://europe.wiseflow.net/participant/)    |40% av karaktergrunnlag|
 |Muntlig eksamen| 19.05 og 20.05     | Fysisk på campus    |60% av karaktergrunnlag|
 
