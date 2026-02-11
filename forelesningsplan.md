@@ -22,10 +22,10 @@ Kommentar: Her kan (og mest sannsynligvis vil) det skje endringer.
 |04.02.2026 14:15-16:00 |Intro til ML, oppgaver | Seminar |[Kode-fil](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/oppgaver/Seminar_Kodeøkt_Adults_datasett.ipynb) | [Oppgaver](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/oppgaver/Oppgaver%233.pdf)/[LF](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/oppgaver/Oppgaver3%23LF.pdf)/[Walkthrough - Lage eget nevralt nettverk](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/oppgaver/Kode_Seminar.pdf)|
 |09.02.2026  10:15-12:00|[Bildeklassifisering, CNN's - del 1](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning5_del1.pdf)|Forelesning|Kapittel 5.4 | |
 |11.02.2026  12:15-14:00|[Bildeklassifisering, CNN's - del 2](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning5-ML.ipynb)|Forelesning| |[Videre utforskning av CNN](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/oppgaver/Cifar10.ipynb) |
-|18.02.2026  14:15-16:00|Whisper/CNN's/prosjekt|Seminar| |[Oppgaver](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/oppgaver/Seminar_muntlig.pdf) |
-|19.02.2026  08:15-12:00|[Long Short Term Memory modeller](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning6_del1.pdf)/[Kode](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning6_ML_For_Economics.ipynb)|Forelesning|Kapittel 5.5 | |
-|23.02.2026  12:15-14:00|Repetisjon|Forelesning|Hele kompendium | |
-|26.02.2026  08:15-14:00|Presentasjon/Arbeidskrav|Prosjektbeskrivelse| | |
+|18.02.2026  14:15-16:00|[Long Short Term Memory modeller](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning6_del1.pdf)/[Kode](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/notebooks/Forelesning6_ML_For_Economics.ipynb)|Forelesning|Kapittel 5.5 | |
+|19.02.2026  08:15-12:00|Whisper/CNN's/prosjekt|Seminar| |[Prep mot muntlig eksamen](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/oppgaver/Seminar_muntlig.pdf) |
+|23.02.2026  12:15-14:00|Repetisjon|Forelesning, prosjekt-inspirasjon|Hele kompendium | |
+|26.02.2026  08:15-14:00|Presentasjon/Arbeidskrav|Prosjektbeskrivelse| |Avtal direkte med meg når/hvor og gruppe |
 |09.03.2026  10:15-12:00|Spørsmål, repetisjon, prosjekt, muntlig|Forelesning|Hele kompendium | |
 |11.03.2026  12:15-14:00|Spørsmål til prosjekt|Seminar| | |
 |PROSJEKTARBEID|EGENSTUDIUM|EGENSTUDIUM| | |
