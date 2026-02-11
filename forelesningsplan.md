@@ -27,7 +27,7 @@ Kommentar: Her kan (og mest sannsynligvis vil) det skje endringer.
 |23.02.2026  12:15-14:00|Repetisjon|Forelesning, prosjekt-inspirasjon|Hele kompendium | |
 |26.02.2026  08:15-14:00|Presentasjon/Arbeidskrav|Prosjektbeskrivelse| |Avtal direkte med meg når/hvor og gruppe |
 |09.03.2026  10:15-12:00|Spørsmål, repetisjon, prosjekt, muntlig|Forelesning|Hele kompendium | |
-|11.03.2026  12:15-14:00|Spørsmål til prosjekt|Seminar| | |
+|11.03.2026  12:15-14:00|Spørsmål til prosjekt (om ønskelig/nødvendig)|Seminar| | |
 |PROSJEKTARBEID|EGENSTUDIUM|EGENSTUDIUM| | |
 |PROSJEKTARBEID|EGENSTUDIUM|EGENSTUDIUM| | |
 |PROSJEKTARBEID|EGENSTUDIUM|EGENSTUDIUM| | |
