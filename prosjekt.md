@@ -78,13 +78,13 @@ Her finner dere tidspunkt for presentasjonene:
 | Dato   | Tidspunkt   | Hvem       | Hvor  |
 |-------------|--------------|-----------------|-----------------|
 | 26. feb | 08.15-08.45 | Oda             | Teams |
-| 26. feb | 08.45-09.15 | Nils og Håvard           | Fysisk |
-| 26. feb | 09.05-09.30 | Gjennomført (anonymisert)             | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDQxOTgwYWQtNDQ2ZS00NWNmLWEyZWEtMTYzYTJiNDE2ZWIw%40thread.v2/0?context=%7b%22Tid%22%3a%224e7f212d-74db-4563-a57b-8ae44ed05526%22%2c%22Oid%22%3a%223bc84fca-f258-43d8-abc9-a2db6ea0ad08%22%7d) |
-| 26. feb | 09.30-09.55 | Gjennomført (anonymisert)                          | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDQxOTgwYWQtNDQ2ZS00NWNmLWEyZWEtMTYzYTJiNDE2ZWIw%40thread.v2/0?context=%7b%22Tid%22%3a%224e7f212d-74db-4563-a57b-8ae44ed05526%22%2c%22Oid%22%3a%223bc84fca-f258-43d8-abc9-a2db6ea0ad08%22%7d) |
-| 26. feb | 09.55-10.20 | Gjennomført (anonymisert)                | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDQxOTgwYWQtNDQ2ZS00NWNmLWEyZWEtMTYzYTJiNDE2ZWIw%40thread.v2/0?context=%7b%22Tid%22%3a%224e7f212d-74db-4563-a57b-8ae44ed05526%22%2c%22Oid%22%3a%223bc84fca-f258-43d8-abc9-a2db6ea0ad08%22%7d) |
-| 26. feb | 10.20-10.45 | Gjennomført (anonymisert)        | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDQxOTgwYWQtNDQ2ZS00NWNmLWEyZWEtMTYzYTJiNDE2ZWIw%40thread.v2/0?context=%7b%22Tid%22%3a%224e7f212d-74db-4563-a57b-8ae44ed05526%22%2c%22Oid%22%3a%223bc84fca-f258-43d8-abc9-a2db6ea0ad08%22%7d) |
-| 26. feb | 10.45-11.10 | Gjennomført (anonymisert)                              | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDQxOTgwYWQtNDQ2ZS00NWNmLWEyZWEtMTYzYTJiNDE2ZWIw%40thread.v2/0?context=%7b%22Tid%22%3a%224e7f212d-74db-4563-a57b-8ae44ed05526%22%2c%22Oid%22%3a%223bc84fca-f258-43d8-abc9-a2db6ea0ad08%22%7d) |
-| 26. feb | 11.10-11.35 | Gjennomført (anonymisert)             | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDQxOTgwYWQtNDQ2ZS00NWNmLWEyZWEtMTYzYTJiNDE2ZWIw%40thread.v2/0?context=%7b%22Tid%22%3a%224e7f212d-74db-4563-a57b-8ae44ed05526%22%2c%22Oid%22%3a%223bc84fca-f258-43d8-abc9-a2db6ea0ad08%22%7d) |
+| 26. feb | 08.45-09.15 | Sofia-Andrea           | Teams |
+| 26. feb | 09.15-09.30 | Nils og Håvard           |Fysisk |
+| 26. feb | 09.30-10.00 | Hvem er neste?:)                         |  |
+| 26. feb | 10.00-10.30 | Hvem er neste?:)                         |  |
+| 26. feb | 10.30-11.00 | Hvem er neste?:)                         |  |
+| 26. feb | 11.00-11.30 | Hvem er neste?:)                         |  |
+| 26. feb | 11.30-12.00 | Hvem er neste?:)                         |  |
 
 
 
