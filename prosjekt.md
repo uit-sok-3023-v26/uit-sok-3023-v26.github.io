@@ -86,9 +86,7 @@ Her finner dere tidspunkt for presentasjonene:
 | 26. feb | 11.00-11.30 | Hvem er neste?:)                         |  |
 | 26. feb | 11.30-12.00 | Hvem er neste?:)                         |  |
 
-
-
-Legg merke til at disse er **digitale**, trykk på lenken for å *gå inn* i Teams-rommet. Ønsker dere fysisk, ta kontakt så kan vi ta det på 24., 25. eller 26. februar!
+De som har fysisk presentasjon møter der timeplanen sier, de som har digitalt har fått invitasjon på Teams.
 
 ### 📚 Vurdering av oppgaven
 Denne semesteroppgaven teller 40% av karakteren. Dere vil få karakter A-F, og det vurderes ut i fra følgende:
