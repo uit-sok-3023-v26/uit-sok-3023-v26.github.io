@@ -85,7 +85,9 @@ Her finner dere tidspunkt for presentasjonene:
 | 26. feb | 10.45-11.15 | Daniel og Daniel  |Fysisk  |
 | 26. feb | 11.15-11.45 | Trym  |Fysisk  |
 
-De som har fysisk presentasjon møter der timeplanen sier, de som har digitalt har fått invitasjon på Teams.
+De som har fysisk presentasjon møter der timeplanen sier, de som har digitalt har fått invitasjon på Teams. 
+
+Møt opp i god tid før presentasjonen din, slik at hvis noen bruker kortere tid så holder vi fremdrift. 
 
 ### 📚 Vurdering av oppgaven
 Denne semesteroppgaven teller 40% av karakteren. Dere vil få karakter A-F, og det vurderes ut i fra følgende:
