@@ -79,12 +79,11 @@ Her finner dere tidspunkt for presentasjonene:
 |-------------|--------------|-----------------|-----------------|
 | 26. feb | 08.15-08.45 | Oda             | Teams |
 | 26. feb | 08.45-09.15 | Sofia-Andrea           | Teams |
-| 26. feb | 09.15-09.30 | Nils og Håvard           |Fysisk |
-| 26. feb | 09.30-10.00 | Hvem er neste?:)                         |  |
-| 26. feb | 10.00-10.30 | Hvem er neste?:)                         |  |
-| 26. feb | 10.30-11.00 | Hvem er neste?:)                         |  |
-| 26. feb | 11.00-11.30 | Hvem er neste?:)                         |  |
-| 26. feb | 11.30-12.00 | Hvem er neste?:)                         |  |
+| 26. feb | 09.15-09.45 | Jonathan         | Teams  |
+| 26. feb | 09.45-10.15 | Nils og Håvard           |Fysisk |
+| 26. feb | 10.15-10.45 | Markus og John-William     |Fysisk |
+| 26. feb | 10.45-11.15 | Daniel og Daniel  |Fysisk  |
+| 26. feb | 11.15-11.45 | Trym  |Fysisk  |
 
 De som har fysisk presentasjon møter der timeplanen sier, de som har digitalt har fått invitasjon på Teams.
 
