@@ -35,8 +35,8 @@ Den forhåndsdefinerte lista med spørsmål finner dere [her](https://github.com
 
 | Navn      | Tidspunkt 19. mai |
 |-----------|-------------------|
-|Markus Bentsen |09:00 - 09:30|
-|John-William Johnsen|09:35 - 09:50|
+|Markus Bentsen |08:45 - 09:15|
+|John-William Johnsen|09:20 - 09:50|
 |Jonathan Talseth Nilsenn|09:55 - 10:25|
 |Oda Margrethe Buck Sæthre|10:30 - 11:00|
 |Trym Willoch Schibbye|11:05 - 11:35|
