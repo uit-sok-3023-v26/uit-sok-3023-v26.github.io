@@ -23,7 +23,7 @@
 Prosjekt kan gjøres i alene eller grupper på to. Muntlig eksamen er individuell.
 
 ## Tidspunkt for muntlig eksamen:
-Under er det listet opp **når** dere skal ha deres muntlige eksamen. Dere er fordelt utover den 19. 2026, og eksamen vil foregå på rom 02.216 (Økonomen) på Handelshøgskolen.
+Under er det listet opp **når** dere skal ha deres muntlige eksamen. Dere er fordelt utover den 19. mai 2026, og eksamen vil foregå på rom 02.216 (Økonomen) på Handelshøgskolen.
 
 Informasjon om hvordan muntlig eksamen vil foregå finner dere [her](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/Muntlig_eksamen_SOK_3023.pdf).
 
