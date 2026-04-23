@@ -35,15 +35,15 @@ Den forhåndsdefinerte lista med spørsmål finner dere [her](https://github.com
 
 | Navn      | Tidspunkt 19. mai |
 |-----------|-------------------|
-|Sofia-Andrea Møen Navnesen|09:00 - 09:30|
-|Markus Bentsen|09:35 - 09:50|
-|John-William Johnsen|09:55 - 10:25|
+|Markus Bentsen |09:00 - 09:30|
+|John-William Johnsen|09:35 - 09:50|
+|Jonathan Talseth Nilsenn|09:55 - 10:25|
 |Oda Margrethe Buck Sæthre|10:30 - 11:00|
 |Trym Willoch Schibbye|11:05 - 11:35|
 |Nils Jore|12:30 - 13:00|
 |Håvard Chramer|13:05 - 13:35|
-|Jonathan Talseth Nilsenn|13:40 - 14:10|
+|Daniel Nikolai Johannessen|13:40 - 14:10|
 |Daniel Fabio Groth|14:15 - 14:45|
-|Daniel Nikolai Johannessen|14:50 - 15:20|
+|Sofia-Andrea Møen|14:50 - 15:20|
 
 Lykke til!
