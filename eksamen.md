@@ -23,7 +23,7 @@
 Prosjekt kan gjøres i alene eller grupper på to. Muntlig eksamen er individuell.
 
 ## Tidspunkt for muntlig eksamen:
-Under er det listet opp **når** dere skal ha deres muntlige eksamen. Det er fordelt ut over dagene 19. og 20. mai 2026, og vil foregå på rom XXX.
+Under er det listet opp **når** dere skal ha deres muntlige eksamen. Dere er fordelt utover den 19. 2026, og eksamen vil foregå på rom 02.216 (Økonomen) på Handelshøgskolen.
 
 Informasjon om hvordan muntlig eksamen vil foregå finner dere [her](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/Muntlig_eksamen_SOK_3023.pdf).
 
@@ -33,14 +33,17 @@ Den forhåndsdefinerte lista med spørsmål finner dere [her](https://github.com
 
 **Obs**: Husk å ta med gyldig legitimasjon! Møt opp i god tid før din eksaminasjon, minst 10 minutter før.
 
-| Navn      | Tidspunkt xx. mai | Navn            | Tidspunkt xx. mai | 
-|-----------|-------------------|-----------------|-----------|
-|Navn Navnesen|09:00 - 09:30|Navn Navnesen|09:00 - 09:30|
-|Navn Navnesen|09:35 - 09:50|Navn Navnesen|09:35 - 09:50|
-|Navn Navnesen|09:55 - 10:25|Navn Navnesen|09:55 - 10:25|
-|Navn Navnesen|10:30 - 11:00|Navn Navnesen|10:30 - 11:00|
-|Navn Navnesen|11:05 - 11:35|Navn Navnesen|11:05 - 11:35|
-|Navn Navnesen|12:30 - 13:00|Navn Navnesen|12:30 - 13:00|
-|Navn Navnesen|13:05 - 13:35|Navn Navnesen|13:05 - 13:35|
+| Navn      | Tidspunkt 19. mai |
+|-----------|-------------------|
+|Sofia-Andrea Møen Navnesen|09:00 - 09:30|
+|Markus Bentsen|09:35 - 09:50|
+|John-William Johnsen|09:55 - 10:25|
+|Oda Margrethe Buck Sæthre|10:30 - 11:00|
+|Trym Willoch Schibbye|11:05 - 11:35|
+|Nils Jore|12:30 - 13:00|
+|Håvard Chramer|13:05 - 13:35|
+|Jonathan Talseth Nilsenn|13:40 - 14:10|
+|Daniel Fabio Groth|14:15 - 14:45|
+|Daniel Nikolai Johannessen|14:50 - 15:20|
 
 Lykke til!
