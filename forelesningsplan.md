@@ -32,7 +32,7 @@ Kommentar: Her kan (og mest sannsynligvis vil) det skje endringer.
 |PROSJEKTARBEID|EGENSTUDIUM|EGENSTUDIUM| | |
 |PROSJEKTARBEID|EGENSTUDIUM|EGENSTUDIUM| | |
 |PROSJEKTARBEID|EGENSTUDIUM|EGENSTUDIUM| | |
-|05.05.2026  10:15-12:00|Spørsmål med prosjekt|Seminar| | |
+|05.05.2026  10:15-12:00|Repetisjonsøkt|Seminar| |[Notater](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/oppgaver/Repetisjonsøkt_med_notater.pdf)/[Uten mine notater](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/oppgaver/Repetisjonsøkt.pdf) |
 |07.05.2026  08:15-12:00|Spørsmål med prosjekt/muntlig|Seminar| |[Trening til muntlig eksamen](https://github.com/uit-sok-3023-v26/uit-sok-3023-v26.github.io/blob/main/oppgaver/Seminar_muntlig.pdf)|
 |07.05.2026  14:00|INNLEVERING AV PROSJEKT|[Wiseflow innlevering](https://europe.wiseflow.net/participant/)| | |
 |11.05.2026  10:15-14:00|Spørretime|Forberedelse til muntlig eksamen| | |
