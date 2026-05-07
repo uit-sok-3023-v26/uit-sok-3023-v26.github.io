@@ -46,6 +46,6 @@ Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/){:
 ## Innlevering og eksamen  
 Kurset består av ett arbeidskrav, en presentasjon av prosjektbeskrivelse, som vurderes godkjent/ikke-godkjent. 
 
-Det som blir karaktergivende er et prosjekt (i gruppestørrelse 1-2) og en muntlig eksamen, hvor begge vektes 50%. Dette danner grunnlag for karakter A-E, F er stryk.
+Det som blir karaktergivende er et prosjekt (i gruppestørrelse 1-2) og en muntlig eksamen, hvor prosjektet vektes 40% og muntlig vektes 60%. Dette danner grunnlag for karakter A-E, F er stryk.
 
 Frister og oppgaver finnes [her](eksamen.html){:target="blank"}.    
